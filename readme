@@ -1,0 +1,3 @@
+[]express-async-errors = this handles the asnyc proccess in our app, with this package, there is no need to use try and catch block again
+[]morgan
+[]cookie-parser: is been use to access the cookie on the req parameter
